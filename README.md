@@ -1,3 +1,5 @@
+[![X](https://dappvibe.vercel.app/x.svg?ref=amnezia-glinet-mt3000)](https://dappvibe.vercel.app/go/x?ref=amnezia-glinet-mt3000)
+
 # AmneziaWG Packages for offical GL.iNET MT-3000 router firmware
 
 Official op24 GL.iNET firmware could be downloaded [here](https://dl.gl-inet.com/router/mt3000/open)
